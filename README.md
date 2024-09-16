@@ -6,6 +6,7 @@ Second, if the metered price based on actual distance and time differs a lot fro
 No customer likes surprises (especially when it comes to money!), that’s why a company always strives to improve our upfront pricing precision for our customers’ smooth journeys.
 
 Objective: 
+
 The task is to analyze this data and identify the top 1 to 2 opportunities that can help us improve upfront pricing precision.
 ## Tools Used
 * Python
