@@ -1,4 +1,4 @@
-# Ride_Hailing_DataAnalysis
+# Data_Analysis
 
 The key aspect of ride-hailing (ex. Uber, Ola) is upfront pricing, which works in the following way:
 First, it predicts the price for a ride based on predicted distance and time. This price is what you see on the screen of the phone before ordering a ride. 
@@ -7,3 +7,6 @@ No customer likes surprises (especially when it comes to money!), that’s why a
 
 Objective: 
 The task is to analyze this data and identify the top 1 to 2 opportunities that can help us improve upfront pricing precision.
+## Tools Used
+* Python
+* Excel
